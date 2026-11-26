@@ -2,7 +2,7 @@
 
 ## Group Members
 - Member 1: [محمد ممدوح كردي] - [4401270]
-- Member 2:  [] - [Student ID]
+- Member 2:  [محمد مسلم الحربي] - [4404330]
 - Member 3: [Name] - [Student ID]
 - Member 4: [Name] - [Student ID]
 
